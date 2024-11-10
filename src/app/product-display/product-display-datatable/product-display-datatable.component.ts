@@ -1,22 +1,23 @@
-import { AfterViewInit, Component, OnDestroy, OnInit, ViewChild } from '@angular/core';
-import { MatPaginator } from "@angular/material/paginator";
+import { AfterViewInit, Component, OnInit, ViewChild } from '@angular/core';
+import { MatPaginator, MatPaginatorModule } from "@angular/material/paginator";
 import { MatSort } from "@angular/material/sort";
-import { MatHeaderRowDef, MatNoDataRow, MatRowDef, MatTableDataSource, MatTableModule } from "@angular/material/table";
+import { MatTableDataSource, MatTableModule } from "@angular/material/table";
 import { Product } from "../../model/product";
 import { Columns, ColumnType, TableWrapperTable } from "../../shared/components/table-wrapped/table-wrapper-table";
 import { ProductService } from "../../service/product.service";
+import { MatFormFieldModule } from "@angular/material/form-field";
+import { MatInputModule } from "@angular/material/input";
 
 @Component({
   selector: 'app-product-display-datatable',
   standalone: true,
   imports: [
     TableWrapperTable,
-    MatPaginator,
-    MatHeaderRowDef,
-    MatRowDef,
-    MatSort,
-    MatNoDataRow,
-    MatTableModule
+    MatPaginatorModule,
+    MatTableModule,
+    MatFormFieldModule,
+    MatInputModule,
+    MatSort
   ],
   templateUrl: './product-display-datatable.component.html',
   styleUrl: './product-display-datatable.component.scss'
@@ -66,7 +67,7 @@ export class ProductDisplayDatatableComponent implements OnInit, AfterViewInit {
     },
   ];
   displayedColumns: string[] = [...this.columns.map(c => c.definition)];
-  pageSizeOptions = [5, 10, 20, 50, 100];
+  pageSizeOptions = [5, 10, 20, 50, 100, 150, 200];
 
   constructor(private readonly productService: ProductService) {
   }
@@ -80,6 +81,15 @@ export class ProductDisplayDatatableComponent implements OnInit, AfterViewInit {
   ngAfterViewInit(): void {
     this.dataSource.paginator = this.paginator;
     this.dataSource.sort = this.sort;
+  }
+
+  applyFilter(event: Event) {
+    const filterValue = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filterValue.trim().toLowerCase();
+
+    if (this.dataSource.paginator) {
+      this.dataSource.paginator.firstPage();
+    }
   }
 
 }

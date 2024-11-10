@@ -1,22 +1,24 @@
-<div tabindex="0" class="full-width">
-  <div class="container mat-elevation-z8">
-    <div class="mat-table-container">
-      <div class="table-wrapper">
+<section>
+
+  <div tabindex="0" class="full-width">
+    <mat-form-field class="full-width">
+      <mat-label>Buscar produtos</mat-label>
+      <input matInput (keyup)="applyFilter($event)" placeholder="Ex. macarrão" #input>
+    </mat-form-field>
+    <div class="mat-elevation-z8">
+      <div class="mat-table-container">
         <table-wrapper-table [dataSource]="dataSource" [columns]="columns"
                              matSort #sort="matSort">
 
           <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
           <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
 
-          <tr class="mat-row" *matNoDataRow>
-            <td class="mat-cell" colspan="7">Não há usuários cadastrados</td>
-          </tr>
         </table-wrapper-table>
       </div>
     </div>
+    <div class="paginator">
+      <mat-paginator [pageSizeOptions]="pageSizeOptions" showFirstLastButtons
+                     aria-label="Selecione a página dos produtos"></mat-paginator>
+    </div>
   </div>
-  <div class="paginator">
-    <mat-paginator [pageSizeOptions]="pageSizeOptions" showFirstLastButtons
-                   aria-label="Selecione a página dos produtos"></mat-paginator>
-  </div>
-</div>
+</section>
