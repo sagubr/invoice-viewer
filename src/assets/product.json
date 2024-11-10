@@ -1,0 +1,922 @@
+[
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "PAPEL HIG MAX PURE 30M C/40 F/D (Código: 39730)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 39.89
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "PAPEL TOALHA ABSOLUTO 360FLS C/3 F/D (Código: 65278)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 14.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "GUARD BOMP C/50 20X20CM (Código: 8643)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.39
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "SACO FREEZER GLOBOPACK 5L (Código: 32676)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 8.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "PAPEL ALUM WYDA 45X4M (Código: 7875)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 6.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "DETERG LIQ LIMPOL 500ML NEUTRO (Código: 5238)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 2.19
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "DETERG LIQ LIMPOL 500ML NEUTRO (Código: 5238)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 2.19
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "DETERG LIQ LIMPOL 500ML COCO (Código: 5239)",
+    "quantity": 4,
+    "unit_of_measure": "UN",
+    "price": 8.76
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "GUARD BOMP C/50 20X20CM (Código: 8643)",
+    "quantity": 3,
+    "unit_of_measure": "UN",
+    "price": 4.17
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "FILTRO PAPEL MELITTA 103 C/30 (Código: 8122)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "COPO DESC TERMOPOT 300ML C/100 CRIS (Código: 8546)",
+    "quantity": 4,
+    "unit_of_measure": "UN",
+    "price": 39.60
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "PANO M USO FORT LIMP C/5 AZ (Código: 9667)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 7.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "PALITO PARANA C/100 (Código: 8269)",
+    "quantity": 6,
+    "unit_of_measure": "UN",
+    "price": 4.14
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "SACO LIXO ABC 110L C/15 (Código: 47074)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 10.90
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "SACO HDOG ROMANA C/50 (Código: 13514)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 6.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "SACO HDOG ROMANA C/50 (Código: 13514)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 6.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "FOSFORO PARANA FORNO FOGAO (Código: 8267)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "ESPJ MAXIMO LIMPZ A?O (Código: 64190)",
+    "quantity": 1,
+    "unit_of_measure": "PC",
+    "price": 5.99
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "LIMP CASAFLOR 1L INTUITIVE (Código: 4948)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 6.49
+  },
+  {
+    "date": "2024-09-14 17:32:39.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "ESPJ ACO BOMBRIL C/8 (Código: 5249)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 2.29
+  },
+  {
+    "date": "2024-10-05 12:39:00.000000",
+    "name": "RAVENA DOCES E FESTAS LTDA",
+    "description": "CFL-003 BANDEJA BRANCA COPOBRAS 235X180X33MM EPS FD COM 100UN (Código: 0026778)",
+    "quantity": 4,
+    "unit_of_measure": "UN",
+    "price": 123.96
+  },
+  {
+    "date": "2024-10-05 12:39:00.000000",
+    "name": "RAVENA DOCES E FESTAS LTDA",
+    "description": "FACA STRAWPLAST FORTE BRANCA 50X1 (Código: 0031458)",
+    "quantity": 3,
+    "unit_of_measure": "PCT",
+    "price": 32.97
+  },
+  {
+    "date": "2024-10-05 12:39:00.000000",
+    "name": "RAVENA DOCES E FESTAS LTDA",
+    "description": "GARFO STRAWPLAST FORTE BRANCO 50X1 (Código: 0031465)",
+    "quantity": 4,
+    "unit_of_measure": "PCT",
+    "price": 43.96
+  },
+  {
+    "date": "2024-10-05 12:39:00.000000",
+    "name": "RAVENA DOCES E FESTAS LTDA",
+    "description": "GARFO STRAWPLAST FORTE PRATA 50X1 (Código: 0016288)",
+    "quantity": 3,
+    "unit_of_measure": "PCT",
+    "price": 32.97
+  },
+  {
+    "date": "2024-10-05 12:39:00.000000",
+    "name": "RAVENA DOCES E FESTAS LTDA",
+    "description": "GARFO STRAWPLAST FORTE BRANCO 50X1 (Código: 0031465)",
+    "quantity": 1,
+    "unit_of_measure": "PCT",
+    "price": 10.99
+  },
+  {
+    "date": "2024-10-05 12:39:00.000000",
+    "name": "RAVENA DOCES E FESTAS LTDA",
+    "description": "FACA STRAWPLAST FORTE PRATA 1X50 - FSPR-707 (Código: 0019073)",
+    "quantity": 2,
+    "unit_of_measure": "PC",
+    "price": 21.98
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CAFE JB 500G (Código: 6532)",
+    "quantity": 2,
+    "unit_of_measure": "UN",
+    "price": 43.98
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "ARROZ VASCONCELOS TIPO1 5kg (Código: 1878)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 35.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "ARROZ VASCONCELOS TIPO1 5kg (Código: 1878)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 35.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FEIJAO CARIOCA PARANA 1kg (Código: 9953)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 5.59
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FEIJAO CARIOCA PARANA 1kg (Código: 9953)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 5.59
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "EXTRATO TOMATE DAJUDA SCH 1,01kg (Código: 35891)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 12.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "EXTRATO TOMATE DAJUDA SCH 1,01kg (Código: 35891)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 12.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "OLEO SOJA ABC PET 900ML (Código: 32418)",
+    "quantity": 5,
+    "unit_of_measure": "UN",
+    "price": 36.45
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CHIMICHURRI SIAMAR 15G (Código: 10587)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.19
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SAL REFINADO UNIAO OURO 1kg (Código: 31059)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SAL REFINADO UNIAO OURO 1kg (Código: 31059)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "TEMPERO SAZON 60G SALADAS (Código: 6517)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 5.19
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MILHO VERDE PREDILECTA LT 170G (Código: 31954)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.39
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "OLEO COMP MARIA LT 500ML (Código: 12415)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 18.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MILHO VERDE PREDILECTA LT 170G (Código: 31954)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.39
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "ACUCAR CRISTAL DELTA 2kg (Código: 1690)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 7.99
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CHIMICHURRI SIAMAR 15G (Código: 10587)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.19
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "TEMPERO SAZON 60G CARNES (Código: 6501)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 5.19
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "PIMENTA REINO RAVENA MOIDA 80G (Código: 29915)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 6.29
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MAIONESE HELLMANNS 500G TRAD (Código: 11682)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 9.69
+  },
+  {
+    "date": "2024-10-23 16:03:23.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "AZEITONA VDE RIVOLI C CAR SCH 500G (Código: 5095)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 16.99
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "ALHO ROXO AGRANEL kg (Código: 2099)",
+    "quantity": 0.755,
+    "unit_of_measure": "KG",
+    "price": 20.31
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "LEITE UHT BONOLAT 1L INTEGRAL (Código: 3829)",
+    "quantity": 24,
+    "unit_of_measure": "UN",
+    "price": 105.36
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FARINHA TRIGO NITA 1kg (Código: 10160)",
+    "quantity": 2,
+    "unit_of_measure": "UN",
+    "price": 8.98
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FUBA MIMOSO RAVENA 1kg (Código: 23327)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 6.99
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "BACON MANTA PERDIGAO kg (Código: 3780)",
+    "quantity": 2.285,
+    "unit_of_measure": "KG",
+    "price": 57.10
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MAC OVOS S AMALIA 500G B ESPAGUETI 9 (Código: 3566)",
+    "quantity": 2,
+    "unit_of_measure": "UN",
+    "price": 7.58
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "OLEO SOJA ABC PET 900ML (Código: 32418)",
+    "quantity": 3,
+    "unit_of_measure": "UN",
+    "price": 21.87
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FERMENTO PO ROYAL 250G (Código: 10059)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 11.99
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CHA MATE NATURAL LEAO SAQUINHO 40G (Código: 6971)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 7.79
+  },
+  {
+    "date": "2024-10-24 19:25:46.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MARGARINA QUALY 500G C SAL (Código: 12386)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 8.99
+  },
+  {
+    "date": "2024-10-27 10:03:49.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "COXA SOBRECOXA FRANGO kg (Código: 8803)",
+    "quantity": 10.836,
+    "unit_of_measure": "KG",
+    "price": 95.25
+  },
+  {
+    "date": "2024-10-27 10:03:49.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FILE PEITO FRANGO kg (Código: 8793)",
+    "quantity": 10.36,
+    "unit_of_measure": "KG",
+    "price": 186.38
+  },
+  {
+    "date": "2024-10-27 10:03:49.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "ACHOC PO ESPECIALI SACHE 1.01 kg (Código: 36706)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 9.79
+  },
+  {
+    "date": "2024-10-31 10:13:06.000000",
+    "name": "SUPERMERCADO JB DE FRUTAL LTDA",
+    "description": "COXINHA ASA FRANGO kg (Código: 8788)",
+    "quantity": 5.34,
+    "unit_of_measure": "KG",
+    "price": 90.73
+  },
+  {
+    "date": "2024-10-31 09:59:24.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "LINGUICA MISTA PERDIGAO kg CHURRAS (Código: 20906)",
+    "quantity": 4.966,
+    "unit_of_measure": "KG",
+    "price": 94.30
+  },
+  {
+    "date": "2024-10-31 09:59:24.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "LINGUICA FRANGO AURORA kg (Código: 4604)",
+    "quantity": 5.096,
+    "unit_of_measure": "KG",
+    "price": 91.68
+  },
+  {
+    "date": "2024-11-06 18:49:54.000000",
+    "name": "SUPERMERCADO JB DE FRUTAL LTDA",
+    "description": "COXINHA ASA FRANGO kg (Código: 8788)",
+    "quantity": 5.87,
+    "unit_of_measure": "KG",
+    "price": 105.60
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CENOURA EXTRA kg (Código: 3666)",
+    "quantity": 1.75,
+    "unit_of_measure": "KG",
+    "price": 3.48
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CENOURA EXTRA kg (Código: 3666)",
+    "quantity": 2.98,
+    "unit_of_measure": "KG",
+    "price": 5.93
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CEBOLA EXTRA kg (Código: 3670)",
+    "quantity": 2.98,
+    "unit_of_measure": "KG",
+    "price": 5.93
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.09
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.09
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.09
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.09
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO TANG 18G LARANJA (Código: 39654)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 0.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO TANG 18G LARANJA (Código: 39654)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 0.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO TANG 18G LARANJA DOCINHA (Código: 39662)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 0.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO PO TANG 18G LARANJA DOCINHA (Código: 39662)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 0.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "BACON MANTA PERDIGAO kg (Código: 3780)",
+    "quantity": 2.21,
+    "unit_of_measure": "KG",
+    "price": 54.12
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "LINGUICA CALABRESA PERDIGAO kg (Código: 12152)",
+    "quantity": 2.542,
+    "unit_of_measure": "KG",
+    "price": 58.44
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MARGARINA QUALY 1kg C SAL (Código: 12322)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 17.79
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CAFE JB 500G (Código: 6532)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 17.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "TEMPERO SIAMAR 25G AVES (Código: 9686)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 2.19
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SAL RAVENA LEMON PEPPER 30G (Código: 30140)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 2.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CHIMICHURRI RAVENA 15G (Código: 29938)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 4.19
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "MILHO PIPOCA PACHA 500G PREMIUN (Código: 13019)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 4.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 11.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 11.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 11.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 11.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 11.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 11.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "TEMPERO SIAMAR 25G AVES (Código: 9686)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 2.19
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "AZEITONA VDE RIVOLI FAT SCH 150G (Código: 5061)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 7.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "PALMITO ACAI IMPERADOR 300G INT (Código: 7448)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 25.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "ACHOC PO TODDY PT 750G (Código: 35760)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 14.79
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "EXTRATO TOMATE DAJUDA SCH 1,01kg (Código: 35891)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 12.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO MAGUARY PET 500ML CAJU (Código: 14594)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 5.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO MAGUARY PET 500ML CAJU (Código: 14594)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 5.99
+  },
+  {
+    "date": "2024-11-08 19:35:40.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "SUCO MAGUARY PET 500ML CAJU (Código: 14594)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 5.99
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.29
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.29
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.29
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.29
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.29
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 3.29
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "MILHO VDE MINAS MAIS 1.7kg LT (Código: 43911)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 20.90
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "ALHO GRANEL kg (Código: 10700)",
+    "quantity": 0.402,
+    "unit_of_measure": "KG",
+    "price": 10.01
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CEBOLA BCA kg (Código: 10587)",
+    "quantity": 1.195,
+    "unit_of_measure": "KG",
+    "price": 4.77
+  },
+  {
+    "date": "2024-11-10 10:09:25.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "MAION HELLMANNS 1,6kg PROF (Código: 34574)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 29.99
+  },
+  {
+    "date": "2024-11-10 11:02:30.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "CEBOLA EXTRA kg (Código: 3670)",
+    "quantity": 1.01,
+    "unit_of_measure": "KG",
+    "price": 3.02
+  },
+  {
+    "date": "2024-11-10 11:02:30.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "BATATINHA kg (Código: 21506)",
+    "quantity": 3.285,
+    "unit_of_measure": "KG",
+    "price": 13.11
+  },
+  {
+    "date": "2024-11-10 11:02:30.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "AZEITONA VDE RIVOLI FAT SCH 150G (Código: 5061)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 7.99
+  },
+  {
+    "date": "2024-11-10 11:02:30.000000",
+    "name": "ARMAZEM LUSO BRASILEIRO LTDA",
+    "description": "REQUEIJAO PURANATA 420G (Código: 13678)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 9.29
+  }
+]
