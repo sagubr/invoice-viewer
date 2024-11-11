@@ -12,6 +12,34 @@
   border-radius: 10px;
 }
 
+.total-section {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px 0;
+}
+
+.total-container {
+  background-color: #e8f5e9;
+  padding: 15px 25px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.total-label {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #2e7d32;
+  margin-right: 10px;
+}
+
+.total-value {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #388e3c;
+}
+
 
 
 

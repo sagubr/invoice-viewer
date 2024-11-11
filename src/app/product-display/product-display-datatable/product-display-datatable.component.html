@@ -1,5 +1,11 @@
-<section>
+<section class="total-section">
+  <div class="total-container">
+    <label class="total-label">Total Gasto Mercado:</label>
+    <span class="total-value">{{ sumPriceProducts() | currency:'BRL':'symbol':'1.2-2' }}</span>
+  </div>
+</section>
 
+<section>
   <div tabindex="0" class="full-width">
     <mat-form-field class="full-width">
       <mat-label>Buscar produtos</mat-label>

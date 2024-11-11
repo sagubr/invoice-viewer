@@ -7,6 +7,7 @@ import { Columns, ColumnType, TableWrapperTable } from "../../shared/components/
 import { ProductService } from "../../service/product.service";
 import { MatFormFieldModule } from "@angular/material/form-field";
 import { MatInputModule } from "@angular/material/input";
+import { CurrencyPipe } from "@angular/common";
 
 @Component({
   selector: 'app-product-display-datatable',
@@ -17,7 +18,8 @@ import { MatInputModule } from "@angular/material/input";
     MatTableModule,
     MatFormFieldModule,
     MatInputModule,
-    MatSort
+    MatSort,
+    CurrencyPipe
   ],
   templateUrl: './product-display-datatable.component.html',
   styleUrl: './product-display-datatable.component.scss'
@@ -27,6 +29,7 @@ export class ProductDisplayDatatableComponent implements OnInit, AfterViewInit {
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   @ViewChild(MatSort) sort!: MatSort;
 
+  products: Product[] = [];
   dataSource: MatTableDataSource<Product> = new MatTableDataSource<Product>([]);
   columns: Columns<Product>[] = [
     {
@@ -79,8 +82,9 @@ export class ProductDisplayDatatableComponent implements OnInit, AfterViewInit {
   }
 
   ngOnInit(): void {
-    this.productService.products.subscribe((product: Product[]) => {
-      this.dataSource.data = product
+    this.productService.products.subscribe((products: Product[]) => {
+      this.products = products;
+      this.dataSource.data = products
     })
   }
 
@@ -96,6 +100,11 @@ export class ProductDisplayDatatableComponent implements OnInit, AfterViewInit {
     if (this.dataSource.paginator) {
       this.dataSource.paginator.firstPage();
     }
+  }
+
+  sumPriceProducts(): number {
+    return this.products.reduce(
+      (total, product) => total + (product.price ?? 0), 0);
   }
 
 }
