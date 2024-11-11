@@ -48,6 +48,12 @@ export class ProductDisplayDatatableComponent implements OnInit, AfterViewInit {
       cell: (product: Product) => product.description
     },
     {
+      definition: 'price_per_unit',
+      header: 'Preço Unidade',
+      type: ColumnType.MONEY,
+      cell: (product: Product) => product.price_per_unit
+    },
+    {
       definition: 'quantity',
       header: 'Quantidade',
       type: ColumnType.NUMBER,

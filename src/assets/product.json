@@ -5,7 +5,8 @@
     "description": "PAPEL HIG MAX PURE 30M C/40 F/D (Código: 39730)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 39.89
+    "price": 39.89,
+    "price_per_unit": 39.89
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -13,7 +14,8 @@
     "description": "PAPEL TOALHA ABSOLUTO 360FLS C/3 F/D (Código: 65278)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 14.99
+    "price": 14.99,
+    "price_per_unit": 14.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -21,7 +23,8 @@
     "description": "GUARD BOMP C/50 20X20CM (Código: 8643)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 1.39
+    "price": 1.39,
+    "price_per_unit": 1.39
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -29,7 +32,8 @@
     "description": "SACO FREEZER GLOBOPACK 5L (Código: 32676)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 8.99
+    "price": 8.99,
+    "price_per_unit": 8.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -37,7 +41,8 @@
     "description": "PAPEL ALUM WYDA 45X4M (Código: 7875)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 6.99
+    "price": 6.99,
+    "price_per_unit": 6.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -45,7 +50,8 @@
     "description": "DETERG LIQ LIMPOL 500ML NEUTRO (Código: 5238)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 2.19
+    "price": 2.19,
+    "price_per_unit": 2.19
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -53,7 +59,8 @@
     "description": "DETERG LIQ LIMPOL 500ML NEUTRO (Código: 5238)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 2.19
+    "price": 2.19,
+    "price_per_unit": 2.19
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -61,7 +68,8 @@
     "description": "DETERG LIQ LIMPOL 500ML COCO (Código: 5239)",
     "quantity": 4,
     "unit_of_measure": "UN",
-    "price": 8.76
+    "price": 8.76,
+    "price_per_unit": 2.19
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -69,7 +77,8 @@
     "description": "GUARD BOMP C/50 20X20CM (Código: 8643)",
     "quantity": 3,
     "unit_of_measure": "UN",
-    "price": 4.17
+    "price": 4.17,
+    "price_per_unit": 1.39
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -77,7 +86,8 @@
     "description": "FILTRO PAPEL MELITTA 103 C/30 (Código: 8122)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.99
+    "price": 3.99,
+    "price_per_unit": 3.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -85,7 +95,8 @@
     "description": "COPO DESC TERMOPOT 300ML C/100 CRIS (Código: 8546)",
     "quantity": 4,
     "unit_of_measure": "UN",
-    "price": 39.60
+    "price": 39.60,
+    "price_per_unit": 9.9
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -93,7 +104,8 @@
     "description": "PANO M USO FORT LIMP C/5 AZ (Código: 9667)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 7.99
+    "price": 7.99,
+    "price_per_unit": 7.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -101,7 +113,8 @@
     "description": "PALITO PARANA C/100 (Código: 8269)",
     "quantity": 6,
     "unit_of_measure": "UN",
-    "price": 4.14
+    "price": 4.14,
+    "price_per_unit": 0.69
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -109,7 +122,8 @@
     "description": "SACO LIXO ABC 110L C/15 (Código: 47074)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 10.90
+    "price": 10.90,
+    "price_per_unit": 10.9
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -117,7 +131,8 @@
     "description": "SACO HDOG ROMANA C/50 (Código: 13514)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 6.99
+    "price": 6.99,
+    "price_per_unit": 6.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -125,7 +140,8 @@
     "description": "SACO HDOG ROMANA C/50 (Código: 13514)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 6.99
+    "price": 6.99,
+    "price_per_unit": 6.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -133,7 +149,8 @@
     "description": "FOSFORO PARANA FORNO FOGAO (Código: 8267)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.99
+    "price": 3.99,
+    "price_per_unit": 3.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -141,7 +158,8 @@
     "description": "ESPJ MAXIMO LIMPZ A?O (Código: 64190)",
     "quantity": 1,
     "unit_of_measure": "PC",
-    "price": 5.99
+    "price": 5.99,
+    "price_per_unit": 5.99
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -149,7 +167,8 @@
     "description": "LIMP CASAFLOR 1L INTUITIVE (Código: 4948)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 6.49
+    "price": 6.49,
+    "price_per_unit": 6.49
   },
   {
     "date": "2024-09-14 17:32:39.000000",
@@ -157,7 +176,8 @@
     "description": "ESPJ ACO BOMBRIL C/8 (Código: 5249)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 2.29
+    "price": 2.29,
+    "price_per_unit": 2.29
   },
   {
     "date": "2024-10-05 12:39:00.000000",
@@ -165,7 +185,8 @@
     "description": "CFL-003 BANDEJA BRANCA COPOBRAS 235X180X33MM EPS FD COM 100UN (Código: 0026778)",
     "quantity": 4,
     "unit_of_measure": "UN",
-    "price": 123.96
+    "price": 123.96,
+    "price_per_unit": 30.99
   },
   {
     "date": "2024-10-05 12:39:00.000000",
@@ -173,7 +194,8 @@
     "description": "FACA STRAWPLAST FORTE BRANCA 50X1 (Código: 0031458)",
     "quantity": 3,
     "unit_of_measure": "PCT",
-    "price": 32.97
+    "price": 32.97,
+    "price_per_unit": 10.99
   },
   {
     "date": "2024-10-05 12:39:00.000000",
@@ -181,7 +203,8 @@
     "description": "GARFO STRAWPLAST FORTE BRANCO 50X1 (Código: 0031465)",
     "quantity": 4,
     "unit_of_measure": "PCT",
-    "price": 43.96
+    "price": 43.96,
+    "price_per_unit": 10.99
   },
   {
     "date": "2024-10-05 12:39:00.000000",
@@ -189,7 +212,8 @@
     "description": "GARFO STRAWPLAST FORTE PRATA 50X1 (Código: 0016288)",
     "quantity": 3,
     "unit_of_measure": "PCT",
-    "price": 32.97
+    "price": 32.97,
+    "price_per_unit": 10.99
   },
   {
     "date": "2024-10-05 12:39:00.000000",
@@ -197,7 +221,8 @@
     "description": "GARFO STRAWPLAST FORTE BRANCO 50X1 (Código: 0031465)",
     "quantity": 1,
     "unit_of_measure": "PCT",
-    "price": 10.99
+    "price": 10.99,
+    "price_per_unit": 10.99
   },
   {
     "date": "2024-10-05 12:39:00.000000",
@@ -205,7 +230,8 @@
     "description": "FACA STRAWPLAST FORTE PRATA 1X50 - FSPR-707 (Código: 0019073)",
     "quantity": 2,
     "unit_of_measure": "PC",
-    "price": 21.98
+    "price": 21.98,
+    "price_per_unit": 10.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -213,7 +239,8 @@
     "description": "CAFE JB 500G (Código: 6532)",
     "quantity": 2,
     "unit_of_measure": "UN",
-    "price": 43.98
+    "price": 43.98,
+    "price_per_unit": 21.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -221,7 +248,8 @@
     "description": "ARROZ VASCONCELOS TIPO1 5kg (Código: 1878)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 35.99
+    "price": 35.99,
+    "price_per_unit": 35.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -229,7 +257,8 @@
     "description": "ARROZ VASCONCELOS TIPO1 5kg (Código: 1878)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 35.99
+    "price": 35.99,
+    "price_per_unit": 35.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -237,7 +266,8 @@
     "description": "FEIJAO CARIOCA PARANA 1kg (Código: 9953)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 5.59
+    "price": 5.59,
+    "price_per_unit": 5.59
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -245,7 +275,8 @@
     "description": "FEIJAO CARIOCA PARANA 1kg (Código: 9953)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 5.59
+    "price": 5.59,
+    "price_per_unit": 5.59
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -253,7 +284,8 @@
     "description": "EXTRATO TOMATE DAJUDA SCH 1,01kg (Código: 35891)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 12.99
+    "price": 12.99,
+    "price_per_unit": 12.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -261,7 +293,8 @@
     "description": "EXTRATO TOMATE DAJUDA SCH 1,01kg (Código: 35891)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 12.99
+    "price": 12.99,
+    "price_per_unit": 12.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -269,7 +302,8 @@
     "description": "OLEO SOJA ABC PET 900ML (Código: 32418)",
     "quantity": 5,
     "unit_of_measure": "UN",
-    "price": 36.45
+    "price": 36.45,
+    "price_per_unit": 7.290000000000001
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -277,7 +311,8 @@
     "description": "CHIMICHURRI SIAMAR 15G (Código: 10587)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.19
+    "price": 3.19,
+    "price_per_unit": 3.19
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -285,7 +320,8 @@
     "description": "SAL REFINADO UNIAO OURO 1kg (Código: 31059)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 1.99
+    "price": 1.99,
+    "price_per_unit": 1.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -293,7 +329,8 @@
     "description": "SAL REFINADO UNIAO OURO 1kg (Código: 31059)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 1.99
+    "price": 1.99,
+    "price_per_unit": 1.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -301,7 +338,8 @@
     "description": "TEMPERO SAZON 60G SALADAS (Código: 6517)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 5.19
+    "price": 5.19,
+    "price_per_unit": 5.19
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -309,7 +347,8 @@
     "description": "MILHO VERDE PREDILECTA LT 170G (Código: 31954)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.39
+    "price": 3.39,
+    "price_per_unit": 3.39
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -317,7 +356,8 @@
     "description": "OLEO COMP MARIA LT 500ML (Código: 12415)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 18.99
+    "price": 18.99,
+    "price_per_unit": 18.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -325,7 +365,8 @@
     "description": "MILHO VERDE PREDILECTA LT 170G (Código: 31954)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.39
+    "price": 3.39,
+    "price_per_unit": 3.39
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -333,7 +374,8 @@
     "description": "ACUCAR CRISTAL DELTA 2kg (Código: 1690)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 7.99
+    "price": 7.99,
+    "price_per_unit": 7.99
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -341,7 +383,8 @@
     "description": "CHIMICHURRI SIAMAR 15G (Código: 10587)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.19
+    "price": 3.19,
+    "price_per_unit": 3.19
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -349,7 +392,8 @@
     "description": "TEMPERO SAZON 60G CARNES (Código: 6501)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 5.19
+    "price": 5.19,
+    "price_per_unit": 5.19
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -357,7 +401,8 @@
     "description": "PIMENTA REINO RAVENA MOIDA 80G (Código: 29915)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 6.29
+    "price": 6.29,
+    "price_per_unit": 6.29
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -365,7 +410,8 @@
     "description": "MAIONESE HELLMANNS 500G TRAD (Código: 11682)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 9.69
+    "price": 9.69,
+    "price_per_unit": 9.69
   },
   {
     "date": "2024-10-23 16:03:23.000000",
@@ -373,7 +419,8 @@
     "description": "AZEITONA VDE RIVOLI C CAR SCH 500G (Código: 5095)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 16.99
+    "price": 16.99,
+    "price_per_unit": 16.99
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -381,7 +428,8 @@
     "description": "ALHO ROXO AGRANEL kg (Código: 2099)",
     "quantity": 0.755,
     "unit_of_measure": "KG",
-    "price": 20.31
+    "price": 20.31,
+    "price_per_unit": 26.90066225165563
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -389,7 +437,8 @@
     "description": "LEITE UHT BONOLAT 1L INTEGRAL (Código: 3829)",
     "quantity": 24,
     "unit_of_measure": "UN",
-    "price": 105.36
+    "price": 105.36,
+    "price_per_unit": 4.39
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -397,7 +446,8 @@
     "description": "FARINHA TRIGO NITA 1kg (Código: 10160)",
     "quantity": 2,
     "unit_of_measure": "UN",
-    "price": 8.98
+    "price": 8.98,
+    "price_per_unit": 4.49
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -405,7 +455,8 @@
     "description": "FUBA MIMOSO RAVENA 1kg (Código: 23327)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 6.99
+    "price": 6.99,
+    "price_per_unit": 6.99
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -413,7 +464,8 @@
     "description": "BACON MANTA PERDIGAO kg (Código: 3780)",
     "quantity": 2.285,
     "unit_of_measure": "KG",
-    "price": 57.10
+    "price": 57.10,
+    "price_per_unit": 24.9890590809628
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -421,7 +473,8 @@
     "description": "MAC OVOS S AMALIA 500G B ESPAGUETI 9 (Código: 3566)",
     "quantity": 2,
     "unit_of_measure": "UN",
-    "price": 7.58
+    "price": 7.58,
+    "price_per_unit": 3.79
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -429,7 +482,8 @@
     "description": "OLEO SOJA ABC PET 900ML (Código: 32418)",
     "quantity": 3,
     "unit_of_measure": "UN",
-    "price": 21.87
+    "price": 21.87,
+    "price_per_unit": 7.29
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -437,7 +491,8 @@
     "description": "FERMENTO PO ROYAL 250G (Código: 10059)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 11.99
+    "price": 11.99,
+    "price_per_unit": 11.99
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -445,7 +500,8 @@
     "description": "CHA MATE NATURAL LEAO SAQUINHO 40G (Código: 6971)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 7.79
+    "price": 7.79,
+    "price_per_unit": 7.79
   },
   {
     "date": "2024-10-24 19:25:46.000000",
@@ -453,7 +509,8 @@
     "description": "MARGARINA QUALY 500G C SAL (Código: 12386)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 8.99
+    "price": 8.99,
+    "price_per_unit": 8.99
   },
   {
     "date": "2024-10-27 10:03:49.000000",
@@ -461,7 +518,8 @@
     "description": "COXA SOBRECOXA FRANGO kg (Código: 8803)",
     "quantity": 10.836,
     "unit_of_measure": "KG",
-    "price": 95.25
+    "price": 95.25,
+    "price_per_unit": 8.790143964562569
   },
   {
     "date": "2024-10-27 10:03:49.000000",
@@ -469,7 +527,8 @@
     "description": "FILE PEITO FRANGO kg (Código: 8793)",
     "quantity": 10.36,
     "unit_of_measure": "KG",
-    "price": 186.38
+    "price": 186.38,
+    "price_per_unit": 17.990347490347492
   },
   {
     "date": "2024-10-27 10:03:49.000000",
@@ -477,7 +536,8 @@
     "description": "ACHOC PO ESPECIALI SACHE 1.01 kg (Código: 36706)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 9.79
+    "price": 9.79,
+    "price_per_unit": 9.79
   },
   {
     "date": "2024-10-31 10:13:06.000000",
@@ -485,7 +545,8 @@
     "description": "COXINHA ASA FRANGO kg (Código: 8788)",
     "quantity": 5.34,
     "unit_of_measure": "KG",
-    "price": 90.73
+    "price": 90.73,
+    "price_per_unit": 16.99063670411985
   },
   {
     "date": "2024-10-31 09:59:24.000000",
@@ -493,7 +554,8 @@
     "description": "LINGUICA MISTA PERDIGAO kg CHURRAS (Código: 20906)",
     "quantity": 4.966,
     "unit_of_measure": "KG",
-    "price": 94.30
+    "price": 94.30,
+    "price_per_unit": 18.989126057188884
   },
   {
     "date": "2024-10-31 09:59:24.000000",
@@ -501,7 +563,8 @@
     "description": "LINGUICA FRANGO AURORA kg (Código: 4604)",
     "quantity": 5.096,
     "unit_of_measure": "KG",
-    "price": 91.68
+    "price": 91.68,
+    "price_per_unit": 17.990580847723706
   },
   {
     "date": "2024-11-06 18:49:54.000000",
@@ -509,7 +572,8 @@
     "description": "COXINHA ASA FRANGO kg (Código: 8788)",
     "quantity": 5.87,
     "unit_of_measure": "KG",
-    "price": 105.60
+    "price": 105.60,
+    "price_per_unit": 17.98977853492334
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -517,7 +581,8 @@
     "description": "CENOURA EXTRA kg (Código: 3666)",
     "quantity": 1.75,
     "unit_of_measure": "KG",
-    "price": 3.48
+    "price": 3.48,
+    "price_per_unit": 1.9885714285714287
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -525,7 +590,8 @@
     "description": "CENOURA EXTRA kg (Código: 3666)",
     "quantity": 2.98,
     "unit_of_measure": "KG",
-    "price": 5.93
+    "price": 5.93,
+    "price_per_unit": 1.9899328859060401
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -533,7 +599,8 @@
     "description": "CEBOLA EXTRA kg (Código: 3670)",
     "quantity": 2.98,
     "unit_of_measure": "KG",
-    "price": 5.93
+    "price": 5.93,
+    "price_per_unit": 1.9899328859060401
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -541,7 +608,8 @@
     "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 1.09
+    "price": 1.09,
+    "price_per_unit": 1.09
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -549,7 +617,8 @@
     "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 1.09
+    "price": 1.09,
+    "price_per_unit": 1.09
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -557,7 +626,8 @@
     "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 1.09
+    "price": 1.09,
+    "price_per_unit": 1.09
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -565,7 +635,8 @@
     "description": "SUCO PO FRISCO 18G MORANGO (Código: 46089)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 1.09
+    "price": 1.09,
+    "price_per_unit": 1.09
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -573,7 +644,8 @@
     "description": "SUCO PO TANG 18G LARANJA (Código: 39654)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 0.99
+    "price": 0.99,
+    "price_per_unit": 0.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -581,7 +653,8 @@
     "description": "SUCO PO TANG 18G LARANJA (Código: 39654)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 0.99
+    "price": 0.99,
+    "price_per_unit": 0.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -589,7 +662,8 @@
     "description": "SUCO PO TANG 18G LARANJA DOCINHA (Código: 39662)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 0.99
+    "price": 0.99,
+    "price_per_unit": 0.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -597,7 +671,8 @@
     "description": "SUCO PO TANG 18G LARANJA DOCINHA (Código: 39662)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 0.99
+    "price": 0.99,
+    "price_per_unit": 0.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -605,7 +680,8 @@
     "description": "BACON MANTA PERDIGAO kg (Código: 3780)",
     "quantity": 2.21,
     "unit_of_measure": "KG",
-    "price": 54.12
+    "price": 54.12,
+    "price_per_unit": 24.488687782805428
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -613,7 +689,8 @@
     "description": "LINGUICA CALABRESA PERDIGAO kg (Código: 12152)",
     "quantity": 2.542,
     "unit_of_measure": "KG",
-    "price": 58.44
+    "price": 58.44,
+    "price_per_unit": 22.989771833202205
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -621,7 +698,8 @@
     "description": "MARGARINA QUALY 1kg C SAL (Código: 12322)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 17.79
+    "price": 17.79,
+    "price_per_unit": 17.79
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -629,7 +707,8 @@
     "description": "CAFE JB 500G (Código: 6532)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 17.99
+    "price": 17.99,
+    "price_per_unit": 17.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -637,7 +716,8 @@
     "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.99
+    "price": 3.99,
+    "price_per_unit": 3.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -645,7 +725,8 @@
     "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.99
+    "price": 3.99,
+    "price_per_unit": 3.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -653,7 +734,8 @@
     "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.99
+    "price": 3.99,
+    "price_per_unit": 3.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -661,7 +743,8 @@
     "description": "MAC OVOS S AMALIA 500G B ESPAGUETE 8 (Código: 3564)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.99
+    "price": 3.99,
+    "price_per_unit": 3.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -669,7 +752,8 @@
     "description": "TEMPERO SIAMAR 25G AVES (Código: 9686)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 2.19
+    "price": 2.19,
+    "price_per_unit": 2.19
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -677,7 +761,8 @@
     "description": "SAL RAVENA LEMON PEPPER 30G (Código: 30140)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 2.99
+    "price": 2.99,
+    "price_per_unit": 2.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -685,7 +770,8 @@
     "description": "CHIMICHURRI RAVENA 15G (Código: 29938)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 4.19
+    "price": 4.19,
+    "price_per_unit": 4.19
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -693,7 +779,8 @@
     "description": "MILHO PIPOCA PACHA 500G PREMIUN (Código: 13019)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 4.99
+    "price": 4.99,
+    "price_per_unit": 4.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -701,7 +788,8 @@
     "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 11.99
+    "price": 11.99,
+    "price_per_unit": 11.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -709,7 +797,8 @@
     "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 11.99
+    "price": 11.99,
+    "price_per_unit": 11.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -717,7 +806,8 @@
     "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 11.99
+    "price": 11.99,
+    "price_per_unit": 11.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -725,7 +815,8 @@
     "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 11.99
+    "price": 11.99,
+    "price_per_unit": 11.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -733,7 +824,8 @@
     "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 11.99
+    "price": 11.99,
+    "price_per_unit": 11.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -741,7 +833,8 @@
     "description": "FARINHA MAND BIJU WALDIR 500G (Código: 9851)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 11.99
+    "price": 11.99,
+    "price_per_unit": 11.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -749,7 +842,8 @@
     "description": "TEMPERO SIAMAR 25G AVES (Código: 9686)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 2.19
+    "price": 2.19,
+    "price_per_unit": 2.19
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -757,7 +851,8 @@
     "description": "AZEITONA VDE RIVOLI FAT SCH 150G (Código: 5061)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 7.99
+    "price": 7.99,
+    "price_per_unit": 7.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -765,7 +860,8 @@
     "description": "PALMITO ACAI IMPERADOR 300G INT (Código: 7448)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 25.99
+    "price": 25.99,
+    "price_per_unit": 25.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -773,7 +869,8 @@
     "description": "ACHOC PO TODDY PT 750G (Código: 35760)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 14.79
+    "price": 14.79,
+    "price_per_unit": 14.79
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -781,7 +878,8 @@
     "description": "EXTRATO TOMATE DAJUDA SCH 1,01kg (Código: 35891)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 12.99
+    "price": 12.99,
+    "price_per_unit": 12.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -789,7 +887,8 @@
     "description": "SUCO MAGUARY PET 500ML CAJU (Código: 14594)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 5.99
+    "price": 5.99,
+    "price_per_unit": 5.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -797,7 +896,8 @@
     "description": "SUCO MAGUARY PET 500ML CAJU (Código: 14594)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 5.99
+    "price": 5.99,
+    "price_per_unit": 5.99
   },
   {
     "date": "2024-11-08 19:35:40.000000",
@@ -805,7 +905,8 @@
     "description": "SUCO MAGUARY PET 500ML CAJU (Código: 14594)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 5.99
+    "price": 5.99,
+    "price_per_unit": 5.99
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -813,7 +914,8 @@
     "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.29
+    "price": 3.29,
+    "price_per_unit": 3.29
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -821,7 +923,8 @@
     "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.29
+    "price": 3.29,
+    "price_per_unit": 3.29
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -829,7 +932,8 @@
     "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.29
+    "price": 3.29,
+    "price_per_unit": 3.29
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -837,7 +941,8 @@
     "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.29
+    "price": 3.29,
+    "price_per_unit": 3.29
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -845,7 +950,8 @@
     "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.29
+    "price": 3.29,
+    "price_per_unit": 3.29
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -853,7 +959,8 @@
     "description": "CR LEITE LEVISSIMO ITAMBE 200G (Código: 50412)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 3.29
+    "price": 3.29,
+    "price_per_unit": 3.29
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -861,7 +968,8 @@
     "description": "MILHO VDE MINAS MAIS 1.7kg LT (Código: 43911)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 20.90
+    "price": 20.90,
+    "price_per_unit": 20.9
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -869,7 +977,8 @@
     "description": "ALHO GRANEL kg (Código: 10700)",
     "quantity": 0.402,
     "unit_of_measure": "KG",
-    "price": 10.01
+    "price": 10.01,
+    "price_per_unit": 24.90049751243781
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -877,7 +986,8 @@
     "description": "CEBOLA BCA kg (Código: 10587)",
     "quantity": 1.195,
     "unit_of_measure": "KG",
-    "price": 4.77
+    "price": 4.77,
+    "price_per_unit": 3.9916317991631796
   },
   {
     "date": "2024-11-10 10:09:25.000000",
@@ -885,7 +995,8 @@
     "description": "MAION HELLMANNS 1,6kg PROF (Código: 34574)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 29.99
+    "price": 29.99,
+    "price_per_unit": 29.99
   },
   {
     "date": "2024-11-10 11:02:30.000000",
@@ -893,7 +1004,8 @@
     "description": "CEBOLA EXTRA kg (Código: 3670)",
     "quantity": 1.01,
     "unit_of_measure": "KG",
-    "price": 3.02
+    "price": 3.02,
+    "price_per_unit": 2.99009900990099
   },
   {
     "date": "2024-11-10 11:02:30.000000",
@@ -901,7 +1013,8 @@
     "description": "BATATINHA kg (Código: 21506)",
     "quantity": 3.285,
     "unit_of_measure": "KG",
-    "price": 13.11
+    "price": 13.11,
+    "price_per_unit": 3.9908675799086755
   },
   {
     "date": "2024-11-10 11:02:30.000000",
@@ -909,7 +1022,8 @@
     "description": "AZEITONA VDE RIVOLI FAT SCH 150G (Código: 5061)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 7.99
+    "price": 7.99,
+    "price_per_unit": 7.99
   },
   {
     "date": "2024-11-10 11:02:30.000000",
@@ -917,6 +1031,61 @@
     "description": "REQUEIJAO PURANATA 420G (Código: 13678)",
     "quantity": 1,
     "unit_of_measure": "UN",
-    "price": 9.29
+    "price": 9.29,
+    "price_per_unit": 9.29
+  },
+  {
+    "date": "2024-11-11 16:41:58.000000",
+    "name": "HORTA FRUTAL",
+    "description": "LIMAO",
+    "quantity": 1.176,
+    "unit_of_measure": "KG",
+    "price": 10.57,
+    "price_per_unit": 8.988095238095239
+  },
+  {
+    "date": "2024-11-11 16:41:58.000000",
+    "name": "HORTA FRUTAL",
+    "description": "TOMATE",
+    "quantity": 2.068,
+    "unit_of_measure": "KG",
+    "price": 10.32,
+    "price_per_unit": 4.990328820116054
+  },
+  {
+    "date": "2024-11-11 16:41:58.000000",
+    "name": "HORTA FRUTAL",
+    "description": "TOMATE",
+    "quantity": 2.684,
+    "unit_of_measure": "KG",
+    "price": 13.39,
+    "price_per_unit": 4.9888226527570785
+  },
+  {
+    "date": "2024-11-11 16:41:58.000000",
+    "name": "HORTA FRUTAL",
+    "description": "TOMATE",
+    "quantity": 2.208,
+    "unit_of_measure": "KG",
+    "price": 11.02,
+    "price_per_unit": 4.990942028985507
+  },
+  {
+    "date": "2024-11-11 16:41:58.000000",
+    "name": "HORTA FRUTAL",
+    "description": "TOMATE",
+    "quantity": 1.898,
+    "unit_of_measure": "KG",
+    "price": 9.47,
+    "price_per_unit": 4.989462592202319
+  },
+  {
+    "date": "2024-11-11 16:41:58.000000",
+    "name": "HORTA FRUTAL",
+    "description": "BATATINHA",
+    "quantity": 2.538,
+    "unit_of_measure": "KG",
+    "price": 20.28,
+    "price_per_unit": 7.990543735224588
   }
 ]

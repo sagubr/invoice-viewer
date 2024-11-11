@@ -5,4 +5,5 @@ export interface Product {
   price?: number;
   quantity?: number;
   unit_of_measure?: string;
+  price_per_unit?: number;
 }
