@@ -1,4 +1,46 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+
+@media print {
+
+  * {
+    box-shadow: none !important;
+    background: transparent !important;
+    color-adjust: exact !important;
+  }
+
+  body, html, .full-width, .mat-table-container, .mat-table {
+    width: 100% !important;
+    overflow: visible !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  tr, th, td {
+    padding: 4px 8px !important;
+    font-size: 0.9em !important;
+  }
+
+  mat-table-container, mat-row, mat-header-row, table-wrapper-table {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .paginator, mat-form-field {
+    display: none !important;
+  }
+
+  mat-form-field-wrapper, mat-form-field {
+    padding: 0 !important;
+  }
+}
+

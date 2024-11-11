@@ -70,7 +70,7 @@ export class ProductDisplayDatatableComponent implements OnInit, AfterViewInit {
     },
     {
       definition: 'price',
-      header: 'Preço',
+      header: 'Preço Total',
       type: ColumnType.MONEY,
       cell: (product: Product) => product.price
     },
