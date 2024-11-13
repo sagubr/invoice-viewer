@@ -1087,5 +1087,95 @@
     "unit_of_measure": "KG",
     "price": 20.28,
     "price_per_unit": 7.990543735224588
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "CONDIM ALHO CEB SALSA MURAT 20G (Código: 32869)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 4.99,
+    "price_per_unit": 4.99
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "COLORIFICO PIRATA 30G (Código: 14414)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 1.49,
+    "price_per_unit": 1.49
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "LING CALAB PERDIGAO 2,5kg (Código: 35060)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 55.69,
+    "price_per_unit": 55.69
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "QJ MUSS RADIO kg PC (Código: 65879)",
+    "quantity": 1.992,
+    "unit_of_measure": "KG",
+    "price": 87.03,
+    "price_per_unit": 43.68975903614458
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "PRES PERDIGAO COZID PECA kg (Código: 18190)",
+    "quantity": 3.362,
+    "unit_of_measure": "KG",
+    "price": 87.34,
+    "price_per_unit": 25.978584176085665
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "BATATA CONG MAIS BATATA 2kg PALITO (Código: 10058)",
+    "quantity": 1,
+    "unit_of_measure": "UN",
+    "price": 27.90,
+    "price_per_unit": 27.9
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "QJ MUSS RADIO kg PC (Código: 65879)",
+    "quantity": 1.032,
+    "unit_of_measure": "KG",
+    "price": 45.09,
+    "price_per_unit": 43.69186046511628
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "QJ MUSS RADIO kg PC (Código: 65879)",
+    "quantity": 1.038,
+    "unit_of_measure": "KG",
+    "price": 45.35,
+    "price_per_unit": 43.689788053949904
+  },
+  {
+    "date": "2024-11-13 08:58:14.000000",
+    "name": "ADICAO DISTRIB EXPRESS S/A",
+    "description": "MORTAD SEARA PC kg DEF (Código: 21506)",
+    "quantity": 4.918,
+    "unit_of_measure": "KG",
+    "price": 73.28,
+    "price_per_unit": 14.900366002440016
+  },
+  {
+    "date": "2024-11-11 16:41:58.000000",
+    "name": "HORTA FRUTAL",
+    "description": "MANDIOCA",
+    "quantity": 5,
+    "unit_of_measure": "KG",
+    "price": 3.99,
+    "price_per_unit": 0.798
   }
 ]
