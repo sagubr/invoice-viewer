@@ -1195,5 +1195,23 @@
     "unit_of_measure": "UN",
     "price": 6.00,
     "price_per_unit": 6
+  },
+  {
+    "date": "2024-11-13 18:20:38.000000",
+    "name": "MAFRE SUPERMERCADOS EIRELI",
+    "description": "TOUCINHO (Código: 2288)",
+    "quantity": 3.1579,
+    "unit_of_measure": "Kg",
+    "price": 56.81,
+    "price_per_unit": 17.98980335032775
+  },
+  {
+    "date": "2024-11-14 08:06:38.000000",
+    "name": "PANIFICADORA",
+    "description": "PAO DE FORMA",
+    "quantity": 6,
+    "unit_of_measure": "UN",
+    "price": 36.00,
+    "price_per_unit": 6
   }
 ]
